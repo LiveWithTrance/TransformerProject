@@ -68,11 +68,11 @@ This project is using GPT-3.5-turbo. (You can use GPT-4 but the price is higher)
 
 It might be easy to web scrape a single website because the structure of a single website is relatively similar and you can also easily foresee any changes of the struture by clicking links and analyzing the raw code within a website.
 
-However, different websites might have different structures. A web scrape programme for a certain website cannot be applied to other different websites without adjustment. But thanks to ChatGPT, it makes more easy for us to do the web scrape more generally.
+However, different websites might have different structures. A web scrape programme for a certain website cannot be applied to other different websites without adjustment. But thanks to ChatGPT, it makes more easy for us to do the web scraping more generally.
 
 
 
-## Details of this web scrape programme 
+## Details of this web scraper
 
 Description only, see details at Jupyter notebook demonstration.ipynb
 
