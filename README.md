@@ -215,8 +215,8 @@ When I perform searches or navigate web pages, I'm using the textual information
    - Optimize the code for better performance, particularly if dealing with large-scale data.
 
 ## Overview Recording
-
-Overview Recording will be uploaded soon.
+[
+(https://drive.google.com/file/d/1wO7y3SYbp7vsbbkFfL4qtl5xmFl7vDRI/view?usp=drive_link)
 
 ## Useful Links
 - [Web Scraping Laws and Ethics](https://www.termsfeed.com/blog/web-scraping-laws/)
